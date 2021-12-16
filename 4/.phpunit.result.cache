@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SlugTest::test_render_sin_estpacio":3},"times":{"SlugTest::test_render":0.004,"SlugTest::test_render_sin_estpacio":0}}
